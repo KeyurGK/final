@@ -1,0 +1,25 @@
+
+
+// Load particular Nda get  details
+export const NDAFORMGETREQ     = "NDAFORMGETREQ";
+export const NDAFORMGETSUCCESS = "NDAFORMGETSUCCESS";
+export const NDAFORMGETFAILURE = "NDAFORMGETFAILURE";
+
+
+// Post  use info 
+export const NDAFORMPOSTREQ     = "NDAFORMPOSTREQ";
+export const NDAFORMPOSTSUCCESS = "NDAFORMPOSTSUCCESS";
+export const NDAFORMPOSTFAILURE = "NDAFORMPOSTFAILURE";
+
+
+// Update particular user info
+export const NDAFORMPUTREQ     = "NDAFORMPUTREQ";
+export const NDAFORMPUTSUCCESS = "NDAFORMPUTSUCCESS";
+export const NDAFORMPUTFAILURE = "NDAFORMPUTFAILURE";
+
+
+
+// Attachment send to backend
+export const NDAATTACHMENTREQ     = "NDAATTACHMENTREQ";
+export const NDAATTACHMENTSUCCESS = "NDAATTACHMENTSUCCESS";
+export const NDAATTACHMENTFAILURE = "NDAATTACHMENTFAILURE";
